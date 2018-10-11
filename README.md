@@ -9,6 +9,12 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 
 ## Componentes:
 
-Arduino UNO (en caso de usar otro modelo revisar las conexiones de la pantalla TFT)
-https://www.arduino.cc/en/Guide/TFT
+- 1 protoboard
+- 2 resistencias 220Ω
+- 8 resistencias 10kΩ
+- 2 leds
+- 8 pulsadores
+- 1 Pantalla - https://www.arduino.cc/en/Guide/TFT
+- 1 Arduino UNO (en caso de usar otro modelo revisar las conexiones de la pantalla TFT)
+
 
