@@ -11,15 +11,14 @@ Componentes usados:
   - 8 resistencias 10kΩ
   - 2 leds
   - 8 pulsadores
-  - 1 Pantalla LCD - https://www.arduino.cc/en/Guide/TFT
+  - 1 Pantalla - https://www.arduino.cc/en/Guide/TFT
 
 /********************************************/
-/* LCD */
-//Librerías para ROBOT LCD 
+/* TFT */ 
 #include <TFT.h>
 #include <SPI.h>
 
-//Pins LCD para ARDUINO UNO
+//Pins para ARDUINO UNO
 #define cs   10
 #define dc   9
 #define rst  8
