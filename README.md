@@ -26,4 +26,7 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 -Diagrama:
 -Fotografía:
 
+## Conexión TFT según Modelos de Arduino:
+
+- https://www.arduino.cc/en/Guide/TFTtoBoards
 
