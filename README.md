@@ -19,4 +19,7 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 
 ## Conexiones:
 
+-Diagrama:
+-Fotografía:
+
 
