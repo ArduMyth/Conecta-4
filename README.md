@@ -7,6 +7,10 @@ Cada ficha caerá por la columna correspondiente hasta encontrar una posición o
 Una vez la ficha se detenga comprobamos si se ha ganado el juego, en dicho caso mostramos una animación con las fichas que han conseguido coenctar 4 (o más). En el caso contrario cambiaremos el turno del jugador.<br />
 Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y dos leds con los colores de los jugadores, estando en ON cuando sea su turno y un modo DEBUG para visualizar por Serial la matriz bidimensional con las fichas.
 
+## Librería:
+
+- TFTLibrary: https://www.arduino.cc/en/Reference/TFTLibrary
+
 ## Componentes:
 
 - 1 protoboard
