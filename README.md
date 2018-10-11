@@ -23,8 +23,8 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 
 ## Conexiones y ejemplo:
 
--Diagrama: <br />
--Fotografía: https://github.com/ArduMyth/conecta-4/blob/master/20181011_123410.pdf
+- Diagrama: <br />
+- Fotografía: https://github.com/ArduMyth/conecta-4/blob/master/20181011_123410.pdf
 
 ## Conexión TFT según Modelos de Arduino:
 
