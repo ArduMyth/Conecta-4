@@ -13,7 +13,7 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 
 ## Componentes:
 
-- 1 protoboard
+- 1 breadboard
 - 2 resistencias 220Ω
 - 8 resistencias 10kΩ
 - 2 leds
