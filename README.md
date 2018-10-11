@@ -1,2 +1,3 @@
-# conecta-4
-conecta-4 con Arduino
+# Proyecto Arduino:
+
+Ejercicio de ejemplo para realizar un conecta 4 con pulsadores y una pantalla LCD.
