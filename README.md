@@ -27,7 +27,7 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 
 ## Conexiones y ejemplo:
 
-Led Amarillo   : A0<br/>
+Led Amarillo   : ~~A0~~<br/>
 Led Rojo         : A1<br/>
 
 Pulsador columna 1: A3<br/>
