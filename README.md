@@ -49,7 +49,7 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 *RESET*: **D8**<br/>
 *GND*: **GND**<br/>
 
-###Más:
+### Más:
 - Diagrama: <br />
 - Fotografía: https://github.com/ArduMyth/conecta-4/blob/master/20181011_123410.pdf
 
