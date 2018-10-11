@@ -59,4 +59,4 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 
 ## Publicación:
 
-- (Añadir)
+- https://forum.arduino.cc/index.php?topic=572996.0
