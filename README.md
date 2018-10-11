@@ -17,4 +17,6 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 - 1 Pantalla - https://www.arduino.cc/en/Guide/TFT
 - 1 Arduino UNO (en caso de usar otro modelo revisar las conexiones de la pantalla TFT)
 
+## Conexiones:
+
 
