@@ -27,17 +27,17 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 
 ## Conexiones y ejemplo:
 
-*Led Amarillo*: A0<br/>
-*Led Rojo*: A1<br/>
+*Led Amarillo*: **A0**<br/>
+*Led Rojo*: **A1**<br/>
 
-*Pulsador columna 1*: A3<br/>
-*Pulsador columna 2*: A4<br/>
-*Pulsador columna 3*: A5<br/>
-*Pulsador columna 4*: D2<br/>
-*Pulsador columna 5*: D3<br/>
-*Pulsador columna 6*: D5<br/>
-*Pulsador columna 7*: D6<br/>
-*Pulsador reset*: A2<br/>
+*Pulsador columna 1*: **A3**<br/>
+*Pulsador columna 2*: **A4**<br/>
+*Pulsador columna 3*: **A5**<br/>
+*Pulsador columna 4*: **D2**<br/>
+*Pulsador columna 5*: **D3**<br/>
+*Pulsador columna 6*: **D5**<br/>
+*Pulsador columna 7*: **D6**<br/>
+*Pulsador reset*: **A2**<br/>
 
 - Diagrama: <br />
 - Fotografía: https://github.com/ArduMyth/conecta-4/blob/master/20181011_123410.pdf
