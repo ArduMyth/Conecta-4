@@ -50,7 +50,7 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 *GND*: **GND**<br/>
 
 ### Más:
-- Diagrama: <br />
+- Diagrama: https://github.com/ArduMyth/conecta-4/blob/master/20181011_123447.pdf<br />
 - Fotografía: https://github.com/ArduMyth/conecta-4/blob/master/20181011_123410.pdf
 
 ## Vídeo:
