@@ -39,15 +39,15 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 *Pulsador columna 7*: **D6**<br/>
 *Pulsador reset*: **A2**<br/>
 
-*+5V*:	**5V**
-*MISO*:	**D12**
-*SCK*:	**D13**
-*MOSI*:	**D11**
-*LCD CS*:	**D10**
-*SD CS*:	**D4**
-*D/C*: **D9**
-*RESET*: **D8**
-*GND*: **GND**
+*+5V*:	**5V**<br/>
+*MISO*:	**D12**<br/>
+*SCK*:	**D13**<br/>
+*MOSI*:	**D11**<br/>
+*LCD CS*:	**D10**<br/>
+*SD CS*:	**D4**<br/>
+*D/C*: **D9**<br/>
+*RESET*: **D8**<br/>
+*GND*: **GND**<br/>
 
 - Diagrama: <br />
 - Fotografía: https://github.com/ArduMyth/conecta-4/blob/master/20181011_123410.pdf
