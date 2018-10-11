@@ -27,6 +27,9 @@ Opcionalmente se incluye un pulsador más que sirve para reiniciar el juego y do
 
 ## Conexiones y ejemplo:
 
+Pulsador columna 1: A3<br/>
+Pulsador columna 2: A4<br/>
+
 - Diagrama: <br />
 - Fotografía: https://github.com/ArduMyth/conecta-4/blob/master/20181011_123410.pdf
 
